@@ -1,6 +1,5 @@
 package com.github.surzia.state.codec.goods;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class DeliveryInProgress implements GoodsState {
