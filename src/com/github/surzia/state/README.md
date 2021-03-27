@@ -4,9 +4,9 @@
 
 ## 特性
 
-- 一种行为设计模式，[设计模式四人帮](https://en.wikipedia.org/wiki/Design_Patterns)之一
+- 一种行为设计模式，[设计模式四人帮](https://en.wikipedia.org/wiki/Design_Patterns) 之一
 - 允许对象内部状态变化时改变行为
-- 和[有限状态机](https://en.wikipedia.org/wiki/Finite-state_machine)概念相似
+- 和[有限状态机](https://en.wikipedia.org/wiki/Finite-state_machine) 概念相似
 - 类似于“策略设计模式”，它提供了一种通过调用模式接口中定义的方法来切换策略的方法
 - 根据对象的内部状态变化封装了对象的各种行为
 - 为对象在运行时更改其行为提供了一种更简洁的方法
