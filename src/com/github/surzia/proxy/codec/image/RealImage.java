@@ -1,4 +1,4 @@
-package com.github.surzia.proxy.codec;
+package com.github.surzia.proxy.codec.image;
 
 public class RealImage implements Image {
 
