@@ -12,6 +12,10 @@
 
 ## 原型模式实现
 - 基本实现
+
   ![](./img/prototypedesignpattern.png)
+
 - 原型注册
+
   ![](./img/prototypedesignpattern1.png)
+
