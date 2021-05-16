@@ -38,7 +38,7 @@
 - [汽车生产线](src/com/github/surzia/builder/codec)
 
 ## 原型模式
->我监工，你干活
+>造轮子是不可能造轮子的
 
 文档：[prototype](src/com/github/surzia/prototype/README.md)
 
@@ -53,3 +53,12 @@
 实例：
 - [网络代理](src/com/github/surzia/proxy/codec/network)
 - [图片传输](src/com/github/surzia/proxy/codec/image)
+
+## 模板模式
+>我怎么说，你怎么做。什么？具体要怎么做？你自己负责
+
+文档：[template](src/com/github/surzia/template/README.md)
+
+实例：
+- [车辆生产线](src/com/github/surzia/template/codec/car)
+- [网络爬虫](src/com/github/surzia/template/codec/mall)
