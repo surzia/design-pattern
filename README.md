@@ -62,3 +62,13 @@
 实例：
 - [车辆生产线](src/com/github/surzia/template/codec/car)
 - [网络爬虫](src/com/github/surzia/template/codec/mall)
+
+## 装饰器模式
+>如果你一层一层拨开我的心，你会发现，这裹的是个啥玩意
+
+文档：[decorator](src/com/github/surzia/decorator/README.md)
+
+实例：
+- [Pizza](src/com/github/surzia/decorator/codec/pizza)
+- [外卖](src/com/github/surzia/decorator/codec/takeaway)
+
