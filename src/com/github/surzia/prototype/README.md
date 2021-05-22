@@ -19,3 +19,5 @@
 
   ![](./img/prototypedesignpattern1.png)
 
+## 结论
+源代码见[github](https://github.com/surzia/design-pattern)
