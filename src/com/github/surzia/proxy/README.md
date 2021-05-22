@@ -107,3 +107,6 @@ public class Main {
 Connecting to www.baidu.com
 请使用内网访问资源
 ```
+
+## 结论
+源代码见[github](https://github.com/surzia/design-pattern)
