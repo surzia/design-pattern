@@ -72,3 +72,10 @@
 - [Pizza](src/com/github/surzia/decorator/codec/pizza)
 - [外卖](src/com/github/surzia/decorator/codec/takeaway)
 
+## 外观模式
+>不能只看外表，更要注重内在，如果了解了内在，那么你就会觉得......还是只看外表吧
+
+文档：[facade](src/com/github/surzia/facade/README.md)
+
+实例：
+- [购物结账](src/com/github/surzia/facade/codec/shop)
