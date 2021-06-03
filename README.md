@@ -79,3 +79,11 @@
 
 实例：
 - [购物结账](src/com/github/surzia/facade/codec/shop)
+
+## 适配器模式
+>想方设法变成你的形状
+
+文档：[adapter](src/com/github/surzia/adapter/README.md)
+
+实例：
+- [媒体播放](src/com/github/surzia/adapter/codec/media)
