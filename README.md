@@ -87,3 +87,12 @@
 
 实例：
 - [媒体播放](src/com/github/surzia/adapter/codec/media)
+
+## 桥接模式
+>架起沟通的桥梁
+
+文档：[bridge](src/com/github/surzia/bridge/README.md)
+
+实例：
+- [画图](src/com/github/surzia/bridge/codec/shape)
+- [造车](src/com/github/surzia/bridge/codec/vehicle)
