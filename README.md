@@ -96,3 +96,12 @@
 实例：
 - [画图](src/com/github/surzia/bridge/codec/shape)
 - [造车](src/com/github/surzia/bridge/codec/vehicle)
+
+## 组合模式
+>螺丝加螺母
+
+文档：[composite](src/com/github/surzia/composite/README.md)
+
+实例：
+- [媒体播放](src/com/github/surzia/composite/codec/salary)
+
