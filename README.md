@@ -105,3 +105,11 @@
 实例：
 - [媒体播放](src/com/github/surzia/composite/codec/salary)
 
+## 享元模式
+>主要是享受
+
+文档：[flyweight](src/com/github/surzia/flyweight/README.md)
+
+实例：
+- [汽车工厂](src/com/github/surzia/flyweight/codec/car)
+- [反恐精英](src/com/github/surzia/flyweight/codec/csgame)
