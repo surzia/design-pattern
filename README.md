@@ -113,3 +113,11 @@
 实例：
 - [汽车工厂](src/com/github/surzia/flyweight/codec/car)
 - [反恐精英](src/com/github/surzia/flyweight/codec/csgame)
+
+## 备忘录模式
+>Ctrl S与Ctrl Z
+
+文档：[memento](src/com/github/surzia/memento/README.md)
+
+实例：
+- [文章版本](src/com/github/surzia/memento/codec)
