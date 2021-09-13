@@ -121,3 +121,12 @@
 
 实例：
 - [文章版本](src/com/github/surzia/memento/codec)
+
+## 责任链模式
+>击鼓传花
+
+文档：[chain of responsibility](src/com/github/surzia/responsibility/README.md)
+
+实例：
+- [简单演示](src/com/github/surzia/responsibility/codec/example)
+- [ATM](src/com/github/surzia/responsibility/codec/atm)
