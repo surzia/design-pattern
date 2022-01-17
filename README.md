@@ -130,7 +130,7 @@
 实例：
 - [简单演示](src/com/github/surzia/responsibility/codec/example)
 - [ATM](src/com/github/surzia/responsibility/codec/atm)
-- 
+
 ## 解释器模式
 >你说啥？
 
@@ -139,3 +139,12 @@
 实例：
 - [简单运算判断](src/com/github/surzia/interpreter/codec/operation)
 - [SQL](src/com/github/surzia/interpreter/codec/sql)
+
+## 中介者模式
+>万能的中介
+
+文档：[mediator](src/com/github/surzia/mediator/README.md)
+
+实例：
+- [指挥控制台](src/com/github/surzia/mediator/codec/atc)
+- [制冷器](src/com/github/surzia/mediator/codec/cooling)
