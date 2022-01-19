@@ -148,3 +148,11 @@
 实例：
 - [指挥控制台](src/com/github/surzia/mediator/codec/atc)
 - [制冷器](src/com/github/surzia/mediator/codec/cooling)
+
+# 过滤器模式
+>筛子
+
+文档：[filter](src/com/github/surzia/filter/README.md)
+
+实例：
+- [人员筛选](src/com/github/surzia/filter/codec)
