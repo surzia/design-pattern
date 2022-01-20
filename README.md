@@ -156,3 +156,12 @@
 
 实例：
 - [人员筛选](src/com/github/surzia/filter/codec)
+
+# 命令模式
+>收到！
+
+文档：[command](src/com/github/surzia/command/README.md)
+
+实例：
+- [自动化控制](src/com/github/surzia/command/codec/automation)
+- [买卖股票](src/com/github/surzia/command/codec/stock)
