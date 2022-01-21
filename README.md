@@ -149,7 +149,7 @@
 - [指挥控制台](src/com/github/surzia/mediator/codec/atc)
 - [制冷器](src/com/github/surzia/mediator/codec/cooling)
 
-# 过滤器模式
+## 过滤器模式
 >筛子
 
 文档：[filter](src/com/github/surzia/filter/README.md)
@@ -157,7 +157,7 @@
 实例：
 - [人员筛选](src/com/github/surzia/filter/codec)
 
-# 命令模式
+## 命令模式
 >收到！
 
 文档：[command](src/com/github/surzia/command/README.md)
@@ -165,3 +165,12 @@
 实例：
 - [自动化控制](src/com/github/surzia/command/codec/automation)
 - [买卖股票](src/com/github/surzia/command/codec/stock)
+
+## 访问者模式
+>我来看你了
+
+文档：[visitor](src/com/github/surzia/visitor/README.md)
+
+实例：
+- [买书](src/com/github/surzia/visitor/codec/book)
+- [自定义文档](src/com/github/surzia/visitor/codec/document)
